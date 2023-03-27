@@ -42,7 +42,20 @@ In the `/instructions` folder, you can add instructions for how to use `/answers
 
 Join our Discord server at https://discord.gg/GZNdrpfk and share your opinions and findings with us.
 
+## On Storing Answers
+
+As the project grows, we plan to add the ability to store answers online and generate chatbots automatically from them. For now, if you want to keep your answers private, please make at least two backups on different devices or print them on paper. Alternatively, you can create a private GitHub repository and upload your answers there.
+
+If you are willing to share your answers with us and have no issues with others reading them, you can upload them to the `/answers/<your_github_username>` folder. This way, we can use them once we have the software.
+
+## Conclusion
+
+Remember that life is worth living as it is now. If you have no one to chat with, feel free to reach out to us. We are glad to chat with you!
+
+Have a nice day!
+
 All the best!
+
 Cheers!
 
 PS: You can find me at [Linkedin](https://www.linkedin.com/in/kamil-wezyk/) or [Twitter](https://twitter.com/gogoliansnake)
