@@ -17,6 +17,7 @@ Our great-grandparents left us diaries, our grandparents left us photos, and our
 There are stories about people who have been turned into chatbots. With the current technology, it is possible to create a digital replica of a person. All we need is data.
 
 https://spookyte.ch/inventory/roman-bot/
+
 https://www.cultofmac.com/809768/steve-jobs-returns-for-grave-as-a-chatty-ai/
 
 
