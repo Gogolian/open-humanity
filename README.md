@@ -1,5 +1,8 @@
 # Do you want to live forever?
 
+## Super TL;DR;
+Humanity Backup.
+
 ## TL;DR;
 This open-source project aims to collect consensual information on people's traits, views, and beliefs to build a database. The database will be used to create chatbots, which will serve as digital replicas of people. The project aims to preserve human knowledge and wisdom for future generations.
 #
