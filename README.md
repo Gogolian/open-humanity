@@ -13,7 +13,7 @@ Humanity Backup.
 4. The questions and answers are stored in your browser local storage
 5. When finished, download your conversation by clicking 'Save conversation history'
 6. Optionally click Clear log to clear conversation from local storage.
-7. Save your conversation somwhere safe.
+7. Save your conversation somewhere safe.
 
 
 ## TL;DR;
