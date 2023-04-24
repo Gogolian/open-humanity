@@ -3,10 +3,16 @@
 ## Super TL;DR;
 Humanity Backup.
 
+http://openhumanity.me
+
 ## IMPORTANT UPDATE! FIRST WORKING VERSION!
 ## YOU OWN THE DATA! NOTHING IS SENT ANYWHERE!
 
 ## How to use:
+
+You can try [ONLINE](https://gogolian.github.io/open-humanity/)
+
+Or locally:
 1. Clone or download repo
 2. Launch index.html, no need to use local server, just open it in your browser
 3. Answer Chatbot questions
