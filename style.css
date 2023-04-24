@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  #chat-container {
+    width: 80%;
+    margin: 20px auto;
+    border: 1px solid #ccc;
+    padding: 10px;
+  }
+  
+  #chat-log {
+    max-height: 400px;
+    overflow-y: scroll;
+    margin-bottom: 10px;
+    padding: 5px;
+  }
+  
+  #chat-input {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  textarea#user-input {
+    width: 80%;
+  }
+  
+  button#submit-btn {
+    width: 15%;
+  }
+  
+  button#download-log {
+    display: block;
+    margin: 20px auto;
+  }
+  
+  .bot, .user {
+    margin-bottom: 5px;
+  }
+  
+  .bot {
+    color: #1e90ff;
+  }
+  
+  .user {
+    color: #32cd32;
+  }
+  
