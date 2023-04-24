@@ -3,6 +3,19 @@
 ## Super TL;DR;
 Humanity Backup.
 
+## IMPORTANT UPDATE! FIRST WORKING VERSION!
+## YOU OWN THE DATA! NOTHING IS SENT ANYWHERE!
+
+## How to use:
+1. Clone or download repo
+2. Launch index.html, no need to use local server, just open it in your browser
+3. Answer Chatbot questions
+4. The questions and answers are stored in your browser local storage
+5. When finished, download your conversation by clicking 'Save conversation history'
+6. Optionally click Clear log to clear conversation from local storage.
+7. Save your conversation somwhere safe.
+
+
 ## TL;DR;
 This open-source project aims to collect consensual information on people's traits, views, and beliefs to build a database. The database will be used to create chatbots, which will serve as digital replicas of people. The project aims to preserve human knowledge and wisdom for future generations.
 #

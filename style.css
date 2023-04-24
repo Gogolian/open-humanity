@@ -3,6 +3,14 @@ body {
     margin: 0;
     padding: 0;
   }
+
+  #header{
+    text-align: center;
+  }
+
+  #header h4{
+    font-weight: normal;
+  }
   
   #chat-container {
     width: 80%;
@@ -34,6 +42,25 @@ body {
   button#download-log {
     display: block;
     margin: 20px auto;
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    background-color: #4caf50;
+    color: #fff;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  button#download-log:hover {
+    background-color: #3e8e41;
+  }
+
+  button#clear-log {
+    display: block;
+    margin-right: 50px;
+    margin-left: auto;
+    padding: 10px 20px;
   }
   
   .bot, .user {

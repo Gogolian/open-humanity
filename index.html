@@ -3,18 +3,25 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Chatbot</title>
+  <title>Open Humanity Chatbot</title>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
+  <div id="header">
+    <h1>Open Humanity Chatbot</h1>
+    <h4>This data is stored ONLY on this browser. We DO NOT collect it.</h4>
+    <h4>When finished, click 'Save conversation history' and 'Clear log'</h4>
+  </div>
   <div id="chat-container">
+    <div id="question-set"></div>
     <div id="chat-log"></div>
     <div id="chat-input">
       <textarea id="user-input" rows="4" cols="50"></textarea>
-      <button id="submit-btn">Submit</button>
+      <button id="submit-btn">Submit<br/>(or press Ctrl + Enter)</button>
     </div>
   </div>
-  <button id="download-log">Download Log</button>
-  <script src="main.js"></script>
+  <button id="download-log">Save conversation history</button>
+  <button id="clear-log">Clear Log</button>
+  <script type="module" src="main.js"></script>
 </body>
 </html>
